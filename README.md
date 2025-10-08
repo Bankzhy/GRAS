@@ -37,6 +37,8 @@ List the main functions provided by the tool:
 - **Cross-Platform Refactoring** – GRAS is designed as a cross-platform refactoring system make developers can access and perform refactoring tasks seamlessly across multiple platforms.
 
 ## 🚀 Tool Demo
+[Tool Demo](http://3.27.214.171/)
+You may log in using **username:** `cot` and **password:** `cot`.  
 <table>
   <tr>
     <td align="center"><img src="./assets/demo1.png" width="180"><br>Fig. 1: Coding Status</td>
