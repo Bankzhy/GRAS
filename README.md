@@ -12,10 +12,10 @@ You may log in using **username:** `cot` and **password:** `cot`.
 
 
 ## 📑 Related Paper  
-- HanYu Zhang, Tomoji Kishi, *Long Method Detection Using Graph Convolutional Networks*, **Journal of Information Processing**, 2023, 31, pp. 469-477.  
-- HanYu Zhang, Tomoji Kishi, *Large Class Detection Using GNNs: A Graph Based Deep Learning Approach Utilizing Three Typical GNN Model Architectures*, **IEICE Transactions on Information and Systems**, 2024, Volume E107.D, Issue 9, pp. 1140–115.  
-- HanYu Zhang, Tomoji Kishi, *KG-Code: A Knowledge Graph Guided Pre-Training Approach for Code Representation* [Accepted by APSEC 2025].
-- HanYu Zhang, Tomoji Kishi, *A Code Smell Refactoring Approach using GNNs* [Under Review].
+- HanYu Zhang, Tomoji Kishi, *Long Method Detection Using Graph Convolutional Networks*, **Journal of Information Processing**, 2023, 31, pp. 469-477. [Link](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_469/_article/-char/ja/)  
+- HanYu Zhang, Tomoji Kishi, *Large Class Detection Using GNNs: A Graph Based Deep Learning Approach Utilizing Three Typical GNN Model Architectures*, **IEICE Transactions on Information and Systems**, 2024, Volume E107.D, Issue 9, pp. 1140–115.[Link](https://www.jstage.jst.go.jp/article/transinf/E107.D/9/E107.D_2023EDP7192/_article)  
+- HanYu Zhang, Tomoji Kishi, *KG-Code: A Knowledge Graph Guided Pre-Training Approach for Code Representation* [Accepted by APSEC 2025].[Link](https://conf.researchr.org/details/apsec-2025/apsec-2025-early-research-achievements--era-/15/KG-Code-A-Knowledge-Graph-Guided-Pre-Training-Approach-for-Code-Representation)
+- HanYu Zhang, Tomoji Kishi, *A Code Smell Refactoring Approach using GNNs* [Under Review].[Link](https://zenodo.org/records/17615442)
 
 ## 🏗 Architecture  
 The overall architecture of this tool is shown as following Diagram.
