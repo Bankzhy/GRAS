@@ -38,6 +38,8 @@ List the main functions provided by the tool:
 
 ## 🚀 Tool Demo
 [Tool Demo](http://3.27.214.171/)
+[Video](https://youtu.be/mL1LtUm7bOk)
+[Jetbrain Plugin](https://plugins.jetbrains.com/plugin/28730-gras)
 You may log in using **username:** `cot` and **password:** `cot`.  
 <table>
   <tr>
