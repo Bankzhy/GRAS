@@ -7,7 +7,7 @@ We present the core technical implementations, related papers, as well as the ar
 
 The core code will be gradually released as open source after further refinement.  
 A Tool Demo can be tested at the following URL.
-[Tool Demo](http://3.27.214.171/)
+[Tool Demo](http://www.gras-code.com/)
 You may log in using **username:** `cot` and **password:** `cot`.  
 
 
@@ -37,7 +37,7 @@ List the main functions provided by the tool:
 - **Cross-Platform Refactoring** – GRAS is designed as a cross-platform refactoring system make developers can access and perform refactoring tasks seamlessly across multiple platforms.
 
 ## 🚀 Tool Demo
-[Tool Demo](http://3.107.85.205/)
+[Tool Demo](http://www.gras-code.com/)
 [Video](https://youtu.be/TnfjWqvPejE)
 [Jetbrain Plugin](https://plugins.jetbrains.com/plugin/28730-gras)
 You may log in using **username:** `cot` and **password:** `cot`.  
